@@ -4,8 +4,9 @@ Introduction
 ============
 > *It takes less time to become an expert than to remain a novice*
 
+Added something
 
-For those of us who started programming Java using IDE's or even build tools like Maven, the process of compiling a Java program, creating executable jar files may 
+For those of us who started programming Java using IDE's or even build tools like Maven, the process of compiling a Java program, creating executable jar files may
 seem esoteric. Morever even though we have a vague sense of terms like classpath,sourcepath etc is, we have a vague nagging sensation that we really dont know
 what they signify. The purpose of this blog is to understand these terms, create a working executable jar file forfeiting the comforts of the IDE. We will take
 a scientific approach, formulate hypothesis ,design experiments and come to a conclusion. *So are you ready to go back to the command line ?*
@@ -30,6 +31,7 @@ We will create a folder structure similar to the folder structure of Maven.
 ![Alt Images](images\sampleImage.png)
 
 
+something else
 
 The SimpleProject is our main project folder. Under it we have a folder src\main\java which will contain all our java source files. The src\main\resources folder will 
 contain other files that should be in the classpath. For now, you can leave the resources folder empty
